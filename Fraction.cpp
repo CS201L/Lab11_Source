@@ -1,6 +1,7 @@
-// Your Name
+// Your name
+// Your UMKC Email Address
 // Today's date
-// Lab 9
+// CS201L Lab 11
 
 #include "Fraction.h"
 #include <iostream>
